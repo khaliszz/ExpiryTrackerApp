@@ -1,2 +1,2 @@
-# Expiry-Tracker-App
+# ExpiryTrackerApp
 Expiry Tracker App and Recipe Recommender
